@@ -64,6 +64,8 @@ Step 5. Run the project Open a terminal and navigate to project directory. Insta
 
 Attachments ![Screenshot 2024-07-05 141123](https://github.com/Anki237/Assignments1/assets/172264982/ee106afc-8148-4deb-9068-65837d3a52f1)
 ![Screenshot 2024-07-05 141204](https://github.com/Anki237/Assignments1/assets/172264982/5b0ca6f8-8ad8-48c2-9b12-950771c32b53)
+![Screenshot 2024-07-05 141147](https://github.com/Anki237/Assignments1/assets/172264982/54c30f3a-df1b-4a1f-a5cb-7102dfd70572)
+
 
 
 
